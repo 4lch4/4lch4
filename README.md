@@ -18,7 +18,7 @@
   <a href="https://dev.to/4lch4" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/dev.to/dev-to.svg"
       alt="4lch4"
       height="30"
       width="30"
@@ -26,7 +26,7 @@
   <a href="https://twitter.com/4lch4" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/twitter/twitter-original.svg"
       alt="4lch4"
       height="30"
       width="30"
@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/devin-leaman-49622429" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/linkedin/linkedin-original.svg"
       alt="devin-leaman-49622429"
       height="30"
       width="30"
@@ -42,7 +42,7 @@
   <a href="https://stackoverflow.com/users/2998850" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/stackoverflow/stackoverflow.svg"
       alt="2998850"
       height="30"
       width="30"
@@ -50,7 +50,7 @@
   <a href="https://fb.com/4lch4" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/facebook/facebook.svg"
       alt="4lch4"
       height="30"
       width="30"
@@ -58,7 +58,7 @@
   <a href="https://instagram.com/4lch4" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/instagram/instagram.svg"
       alt="4lch4"
       height="30"
       width="30"
@@ -66,7 +66,7 @@
   <a href="https://medium.com/@4lch4" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
+      src="https://raw.githubusercontent.com/4lch4/Shared-Icons/main/svgs/medium/medium.svg"
       alt="@4lch4"
       height="30"
       width="30"
