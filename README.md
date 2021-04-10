@@ -1,5 +1,5 @@
 <h1 align="center">Heyo, I'm 4lch4 (Al-Kuh)</h1>
-<h3 align="center">I Some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.</h3>
+<h3 align="center">I'm some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4lch4" alt="4lch4" /> </p>
 
