@@ -76,7 +76,7 @@
 <p style="margin: 25px">
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lch4&layout=compact&hide=html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lch4&layout=compact&hide=html&theme=chartreuse-dark"
     alt="4lch4"
   />
 </p>
@@ -84,7 +84,7 @@
 <p style="margin: 25px">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=4lch4&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=4lch4&show_icons=true&theme=chartreuse-dark"
     alt="4lch4"
   />
 </p>
