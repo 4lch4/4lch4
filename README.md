@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unavoidable Notification](https://dev.to/4lch4/unavoidable-notification-5g2g)
-- [Enmeti 1.2.1 Update Log](https://dev.to/4lch4-industries/enmeti-update-log-2-2paf)
-- [What's Up Doc?](https://dev.to/4lch4-industries/whats-up-doc-53cj)
-- [What's with the 🦄?](https://dev.to/4lch4/whats-with-the---4bdg)
-- [Project Enmeti Update Log 2018/08/20](https://dev.to/4lch4-industries/project-enmeti-update-log-20180820-4297)
+- [How I Made the Perfect Keyboard Mine](https://4lch4.blog/blog/2021/07/03-moonlander)
+- [Koa Router Printer NPM Module](https://4lch4.blog/blog/2021/07/02-koa-router-printer)
+- [Hello World!](https://4lch4.blog/blog/2021/05/14-hello-world)
+- [Solving the FizzBuzz Problem in PowerShell](https://4lch4.blog/blog/2018/08/07-solving-the-fizzbuzz-problem-in-powershell)
+- [How to Uniquify Your PowerShell Console](https://4lch4.blog/blog/2018/06/03-how-to-uniquify-your-powershell-console)
 <!-- BLOG-POST-LIST:END -->
 
 ---
