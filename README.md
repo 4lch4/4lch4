@@ -17,7 +17,7 @@
 
 ---
 
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Unavoidable Notification](https://dev.to/4lch4/unavoidable-notification-5g2g)

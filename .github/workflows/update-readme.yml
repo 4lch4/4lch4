@@ -1,4 +1,4 @@
-name: Update README GitHub Stats
+name: Update GitHub Stats
 
 on:
   schedule:
