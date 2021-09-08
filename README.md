@@ -20,6 +20,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unavoidable Notification](https://dev.to/4lch4/unavoidable-notification-5g2g)
+- [Enmeti 1.2.1 Update Log](https://dev.to/4lch4-industries/enmeti-update-log-2-2paf)
+- [What's Up Doc?](https://dev.to/4lch4-industries/whats-up-doc-53cj)
+- [What's with the 🦄?](https://dev.to/4lch4/whats-with-the---4bdg)
+- [Project Enmeti Update Log 2018/08/20](https://dev.to/4lch4-industries/project-enmeti-update-log-20180820-4297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -28,6 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
+2. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+3. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+4. ❗️ Opened issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+5. 🗣 Commented on [#78](https://github.com/estruyf/vscode-front-matter/issues/78) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
 <!--END_SECTION:activity-->
 
 </details>
