@@ -20,6 +20,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unavoidable Notification](https://dev.to/4lch4/unavoidable-notification-5g2g)
+- [Enmeti 1.2.1 Update Log](https://dev.to/4lch4-industries/enmeti-update-log-2-2paf)
+- [What's Up Doc?](https://dev.to/4lch4-industries/whats-up-doc-53cj)
+- [What's with the 🦄?](https://dev.to/4lch4/whats-with-the---4bdg)
+- [Project Enmeti Update Log 2018/08/20](https://dev.to/4lch4-industries/project-enmeti-update-log-20180820-4297)
 <!-- BLOG-POST-LIST:END -->
 
 ---
