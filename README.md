@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
-2. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-3. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-4. ❗️ Opened issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-5. 🗣 Commented on [#78](https://github.com/estruyf/vscode-front-matter/issues/78) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
+1. 🗣 Commented on [#1](https://github.com/espanso/hub/issues/1) in [espanso/hub](https://github.com/espanso/hub)
+2. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
+3. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+4. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+5. ❗️ Opened issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
 <!--END_SECTION:activity-->
 
 </details>
