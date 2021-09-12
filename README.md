@@ -9,8 +9,10 @@
   <!-- <li>👯&nbsp;&nbsp;I’m looking to collaborate on <a href="https://github.com/4lch4/Tron">Tron</a>.</li> -->
   <li>👨‍💻&nbsp;&nbsp;All of my public projects are in my <a  href="https://github.com/4lch4?tab=repositories">Repositories</a> tab.</li>
   <li>📫&nbsp;&nbsp;How to reach me:
-    &emsp;<li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
-    &emsp;<li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li>
+  <ul>
+    <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
+    <li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li>
+  </ul>
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
 </ul>
