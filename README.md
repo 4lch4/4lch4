@@ -19,7 +19,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### :open_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Made the Perfect Keyboard Mine](https://4lch4.blog/blog/2021/07/03-moonlander)
@@ -47,7 +47,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:bar_chart: GitHub Stats</summary>
 
   <img align="left" alt="4lch4's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=4lch4&show_icons=true&hide_border=true" />
 
@@ -56,7 +56,7 @@
 ---
 
 <details>
-  <summary>🏆 GitHub Trophy Collection</summary>
+  <summary>:trophy: GitHub Trophy Collection</summary>
 
   <img alt="4lch4's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=4lch4&column=3&theme=monokai">
 </details>
