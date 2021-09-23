@@ -58,6 +58,6 @@
 <details>
   <summary>:trophy: GitHub Trophy Collection</summary>
 
-  <img alt="4lch4's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=4lch4&column=3&theme=monokai">
+  <img alt="4lch4's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=4lch4&column=4&theme=monokai">
 </details>
 
