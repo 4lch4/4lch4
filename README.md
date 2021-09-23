@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/espanso/hub/issues/1) in [espanso/hub](https://github.com/espanso/hub)
-2. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
-3. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-4. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-5. ❗️ Opened issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+1. 🗣 Commented on [#198](https://github.com/scttcper/koa2-swagger-ui/issues/198) in [scttcper/koa2-swagger-ui](https://github.com/scttcper/koa2-swagger-ui)
+2. 🗣 Commented on [#1](https://github.com/espanso/hub/issues/1) in [espanso/hub](https://github.com/espanso/hub)
+3. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
+4. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+5. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
 <!--END_SECTION:activity-->
 
 </details>
