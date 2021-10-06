@@ -22,11 +22,11 @@
 ### :open_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made the Perfect Keyboard Mine](https://4lch4.blog/blog/2021/07/03-moonlander)
-- [Koa Router Printer NPM Module](https://4lch4.blog/blog/2021/07/02-koa-router-printer)
-- [Hello World!](https://4lch4.blog/blog/2021/05/14-hello-world)
-- [Solving the FizzBuzz Problem in PowerShell](https://4lch4.blog/blog/2018/08/07-solving-the-fizzbuzz-problem-in-powershell)
-- [How to Uniquify Your PowerShell Console](https://4lch4.blog/blog/2018/06/03-how-to-uniquify-your-powershell-console)
+- [Don't Rebuild Your Docker Image Locally](https://4lch4.blog/entries/2021/10/dont-rebuild-docker-locally)
+- [How I Made the Perfect Keyboard Mine](https://4lch4.blog/entries/2021/07/perfect-keyboard)
+- [Koa Router Printer NPM Module](https://4lch4.blog/entries/2021/07/koa-router-printer)
+- [Hello World!](https://4lch4.blog/entries/2021/05/hello-world)
+- [Solving the FizzBuzz Problem in PowerShell](https://4lch4.blog/entries/2018/08/solving-the-fizzbuzz-problem-in-powershell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
