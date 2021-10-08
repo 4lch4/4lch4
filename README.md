@@ -11,7 +11,7 @@
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
     <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
-    <li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li>
+<!--     <li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li> -->
   </ul>
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
