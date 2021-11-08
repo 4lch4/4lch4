@@ -22,7 +22,7 @@
 ### :open_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don't Rebuild Your Docker Image Locally](https://4lch4.blog/entries/2021/10/dont-rebuild-docker-locally)
+- [Don&#39;t Rebuild Your Docker Image Locally](https://4lch4.blog/entries/2021/10/dont-rebuild-docker-locally)
 - [How I Made the Perfect Keyboard Mine](https://4lch4.blog/entries/2021/07/perfect-keyboard)
 - [Koa Router Printer NPM Module](https://4lch4.blog/entries/2021/07/koa-router-printer)
 - [Hello World!](https://4lch4.blog/entries/2021/05/hello-world)
