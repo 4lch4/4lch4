@@ -35,9 +35,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ritwickdey/vscode-create-file-folder/issues/2) in [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder)
-2. 💪 Opened PR [#1](https://github.com/billy-pilger/ilograph-standard-libraries/pull/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
-3. 🗣 Commented on [#2](https://github.com/4lch4/writing-javascript-actions/issues/2) in [4lch4/writing-javascript-actions](https://github.com/4lch4/writing-javascript-actions)
+1. ❗️ Opened issue [#1](https://github.com/4lch4/vscode-create-file-folder/issues/1) in [4lch4/vscode-create-file-folder](https://github.com/4lch4/vscode-create-file-folder)
+2. 🗣 Commented on [#2](https://github.com/ritwickdey/vscode-create-file-folder/issues/2) in [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder)
+3. 💪 Opened PR [#1](https://github.com/billy-pilger/ilograph-standard-libraries/pull/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
 4. 💪 Opened PR [#2](https://github.com/4lch4/writing-javascript-actions/pull/2) in [4lch4/writing-javascript-actions](https://github.com/4lch4/writing-javascript-actions)
 5. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
 <!--END_SECTION:activity-->
