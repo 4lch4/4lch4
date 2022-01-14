@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/4lch4/Email-To-Text/issues/1) in [4lch4/Email-To-Text](https://github.com/4lch4/Email-To-Text)
-2. ❗️ Opened issue [#1](https://github.com/4lch4/vscode-create-file-folder/issues/1) in [4lch4/vscode-create-file-folder](https://github.com/4lch4/vscode-create-file-folder)
-3. 🗣 Commented on [#2](https://github.com/ritwickdey/vscode-create-file-folder/issues/2) in [ritwickdey/vscode-create-file-folder](https://github.com/ritwickdey/vscode-create-file-folder)
-4. 💪 Opened PR [#1](https://github.com/billy-pilger/ilograph-standard-libraries/pull/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
-5. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+1. ❌ Closed PR [#249](https://github.com/4lch4/Ansel/pull/249) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+2. ❌ Closed PR [#246](https://github.com/4lch4/Ansel/pull/246) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+3. ❌ Closed PR [#248](https://github.com/4lch4/Ansel/pull/248) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+4. ❌ Closed PR [#236](https://github.com/4lch4/Ansel/pull/236) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+5. ❌ Closed PR [#245](https://github.com/4lch4/Ansel/pull/245) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
 <!--END_SECTION:activity-->
 
 </details>
