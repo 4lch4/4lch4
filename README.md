@@ -14,7 +14,7 @@ modifiedDate: '2021-09-23 @ 14:07:46'
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
     <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
-    <li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li>
+<!--     <li><em><a href="https://4lch4.social">My social site</a></em> with links to nearly all methods of contact.</li> -->
   </ul>
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
@@ -25,11 +25,11 @@ modifiedDate: '2021-09-23 @ 14:07:46'
 ### :open_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made the Perfect Keyboard Mine](https://4lch4.blog/blog/2021/07/03-moonlander)
-- [Koa Router Printer NPM Module](https://4lch4.blog/blog/2021/07/02-koa-router-printer)
-- [Hello World!](https://4lch4.blog/blog/2021/05/14-hello-world)
-- [Solving the FizzBuzz Problem in PowerShell](https://4lch4.blog/blog/2018/08/07-solving-the-fizzbuzz-problem-in-powershell)
-- [How to Uniquify Your PowerShell Console](https://4lch4.blog/blog/2018/06/03-how-to-uniquify-your-powershell-console)
+- [Don&#39;t Rebuild Your Docker Image Locally](https://4lch4.blog/entries/2021/10/dont-rebuild-docker-locally)
+- [How I Made the Perfect Keyboard Mine](https://4lch4.blog/entries/2021/07/perfect-keyboard)
+- [Koa Router Printer NPM Module](https://4lch4.blog/entries/2021/07/koa-router-printer)
+- [Hello World!](https://4lch4.blog/entries/2021/05/hello-world)
+- [Solving the FizzBuzz Problem in PowerShell](https://4lch4.blog/entries/2018/08/solving-the-fizzbuzz-problem-in-powershell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -38,11 +38,11 @@ modifiedDate: '2021-09-23 @ 14:07:46'
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/scttcper/koa2-swagger-ui/issues/198) in [scttcper/koa2-swagger-ui](https://github.com/scttcper/koa2-swagger-ui)
-2. 🗣 Commented on [#1](https://github.com/espanso/hub/issues/1) in [espanso/hub](https://github.com/espanso/hub)
-3. 💪 Opened PR [#1324](https://github.com/snowpackjs/astro/pull/1324) in [snowpackjs/astro](https://github.com/snowpackjs/astro)
-4. ❗️ Closed issue [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
-5. 🗣 Commented on [#1](https://github.com/snowpackjs/play.astro.build/issues/1) in [snowpackjs/play.astro.build](https://github.com/snowpackjs/play.astro.build)
+1. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
+2. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
+3. ❌ Closed PR [#249](https://github.com/4lch4/Ansel/pull/249) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+4. ❌ Closed PR [#246](https://github.com/4lch4/Ansel/pull/246) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+5. ❌ Closed PR [#248](https://github.com/4lch4/Ansel/pull/248) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
 <!--END_SECTION:activity-->
 
 </details>
