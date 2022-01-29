@@ -1,6 +1,3 @@
----
-modifiedDate: '2021-09-23 @ 14:07:46'
----
 <h1 align="center">Heyo, I'm 4lch4 (Al-Kuh)</h1>
 <h3 align="center">I'm just some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.</h3>
 
