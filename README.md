@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
-2. ❌ Closed PR [#249](https://github.com/4lch4/Ansel/pull/249) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
-3. ❌ Closed PR [#246](https://github.com/4lch4/Ansel/pull/246) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
-4. ❌ Closed PR [#248](https://github.com/4lch4/Ansel/pull/248) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
-5. ❌ Closed PR [#236](https://github.com/4lch4/Ansel/pull/236) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+1. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
+2. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
+3. ❌ Closed PR [#249](https://github.com/4lch4/Ansel/pull/249) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+4. ❌ Closed PR [#246](https://github.com/4lch4/Ansel/pull/246) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+5. ❌ Closed PR [#248](https://github.com/4lch4/Ansel/pull/248) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
 <!--END_SECTION:activity-->
 
 </details>
