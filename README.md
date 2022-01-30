@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
-2. 💪 Opened PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
-3. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
-4. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
-5. ❌ Closed PR [#249](https://github.com/4lch4/Ansel/pull/249) in [4lch4/Ansel](https://github.com/4lch4/Ansel)
+1. 🎉 Merged PR [#2](https://github.com/4lch4/TypeScript-Module-Template/pull/2) in [4lch4/TypeScript-Module-Template](https://github.com/4lch4/TypeScript-Module-Template)
+2. ❌ Closed PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
+3. 💪 Opened PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
+4. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
+5. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
 <!--END_SECTION:activity-->
 
 </details>
