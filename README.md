@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/4lch4/TypeScript-Module-Template/pull/2) in [4lch4/TypeScript-Module-Template](https://github.com/4lch4/TypeScript-Module-Template)
-2. ❌ Closed PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
-3. 💪 Opened PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
-4. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
-5. ❗️ Opened issue [#2337](https://github.com/Countly/countly-server/issues/2337) in [Countly/countly-server](https://github.com/Countly/countly-server)
+1. 💪 Opened PR [#1](https://github.com/CYBERANONYMOUS1/didi/pull/1) in [CYBERANONYMOUS1/didi](https://github.com/CYBERANONYMOUS1/didi)
+2. 🎉 Merged PR [#2](https://github.com/4lch4/TypeScript-Module-Template/pull/2) in [4lch4/TypeScript-Module-Template](https://github.com/4lch4/TypeScript-Module-Template)
+3. ❌ Closed PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
+4. 💪 Opened PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
+5. 🎉 Merged PR [#13](https://github.com/4lch4/Digital-Garden/pull/13) in [4lch4/Digital-Garden](https://github.com/4lch4/Digital-Garden)
 <!--END_SECTION:activity-->
 
 </details>
