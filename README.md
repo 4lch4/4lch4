@@ -35,11 +35,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/billy-pilger/ilograph-standard-libraries/issues/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
+1. ❌ Closed PR [#1](https://github.com/CYBERANONYMOUS1/didi/pull/1) in [CYBERANONYMOUS1/didi](https://github.com/CYBERANONYMOUS1/didi)
 2. 🗣 Commented on [#1](https://github.com/billy-pilger/ilograph-standard-libraries/issues/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
-3. 💪 Opened PR [#1](https://github.com/CYBERANONYMOUS1/didi/pull/1) in [CYBERANONYMOUS1/didi](https://github.com/CYBERANONYMOUS1/didi)
-4. 🎉 Merged PR [#2](https://github.com/4lch4/TypeScript-Module-Template/pull/2) in [4lch4/TypeScript-Module-Template](https://github.com/4lch4/TypeScript-Module-Template)
-5. ❌ Closed PR [#1](https://github.com/4lch4/4lch4.social/pull/1) in [4lch4/4lch4.social](https://github.com/4lch4/4lch4.social)
+3. 🗣 Commented on [#1](https://github.com/billy-pilger/ilograph-standard-libraries/issues/1) in [billy-pilger/ilograph-standard-libraries](https://github.com/billy-pilger/ilograph-standard-libraries)
+4. 💪 Opened PR [#1](https://github.com/CYBERANONYMOUS1/didi/pull/1) in [CYBERANONYMOUS1/didi](https://github.com/CYBERANONYMOUS1/didi)
+5. 🎉 Merged PR [#2](https://github.com/4lch4/TypeScript-Module-Template/pull/2) in [4lch4/TypeScript-Module-Template](https://github.com/4lch4/TypeScript-Module-Template)
 <!--END_SECTION:activity-->
 
 </details>
