@@ -22,8 +22,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=4lch4" alt="4lch4" />
 
-  <a href="https://app.daily.dev/4lch4">
-    <img src="https://github.com/4lch4/4lch4/blob/master/devcard.svg" width="400" alt="4lch4's Dev Card"/>
+  <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/4lch4/4lch4/devcard/devcard.svg"
+    />
   </a>
 </div>
 
