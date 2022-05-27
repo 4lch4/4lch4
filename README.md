@@ -40,7 +40,7 @@
     </ul>
   </li>
   <li>
-    🌱&nbsp;&nbsp;I’m currently learning more about front-end development.
+    🌱&nbsp;&nbsp;I’m currently learning more about front-end development and Rust.
   </li>
   <li>
     👨‍💻&nbsp;&nbsp;All of my public projects are in my
