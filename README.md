@@ -33,8 +33,11 @@
 
 <ul style="margin-top: 25px;">
   <li>
-    🔭&nbsp;&nbsp;I’m currently working on
-    <a href="https://github.com/4lch4/Ansel">Ansel</a>, an asset retrieval API.
+    🔭&nbsp;&nbsp;I’m currently working on:
+    <ul>
+      <li><a href="https://github.com/4lch4/Ansel">Ansel</a>, an asset retrieval API.</li>
+      <li><a href="https://github.com/4lch4/Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
+    </ul>
   </li>
   <li>
     🌱&nbsp;&nbsp;I’m currently learning more about front-end development.
