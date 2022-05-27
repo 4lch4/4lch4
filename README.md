@@ -49,6 +49,7 @@
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
     <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
+    <li><a href="https://4lch4.social">Any of my other public avenues.</a></li>
     <!-- <li>
       <em><a href="https://4lch4.social">My social site</a></em> with links to
       nearly all methods of contact.
