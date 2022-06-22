@@ -36,7 +36,7 @@
     🔭&nbsp;&nbsp;I’m currently working on:
     <ul>
       <li><a href="https://github.com/4lch4/Ansel">Ansel</a>, an asset retrieval API.</li>
-      <li><a href="https://github.com/4lch4/Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
+      <li><a href="https://github.com/4IS-Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
     </ul>
   </li>
   <li>
