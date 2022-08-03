@@ -6,6 +6,7 @@
 
 <!-- Badges -->
 <div align="left">
+
   <a href="https://twitter.com/4lch4">
     <img
       src="https://img.shields.io/twitter/follow/4lch4?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -22,43 +23,42 @@
 
   <img src="https://komarev.com/ghpvc/?username=4lch4" alt="4lch4" />
 
-  <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
+  <!-- <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/4lch4/4lch4/devcard/devcard.svg"
     />
-  </a>
+  </a> -->
 </div>
 
 <ul style="margin-top: 25px;">
   <li>
     🔭&nbsp;&nbsp;I’m currently working on:
     <ul>
-      <li><a href="https://github.com/4lch4/Ansel">Ansel</a>, an asset retrieval API.</li>
-      <li><a href="https://github.com/4IS-Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
+      <li><a href="https://git.4lch4.io/4lch4/Ansel">Ansel</a>, an asset retrieval API.</li>
+      <li><a href="https://git.4lch4.io/Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
     </ul>
   </li>
   <li>
     🌱&nbsp;&nbsp;I’m currently learning more about front-end development and Rust.
   </li>
   <li>
-    👨‍💻&nbsp;&nbsp;All of my public projects are in my
-    <a href="https://github.com/4lch4?tab=repositories">Repositories</a> tab.
+    👨‍💻&nbsp;&nbsp;All of my public projects are viewable on my
+    <a href="https://git.4lch4.io/4lch4">Gitea profile</a>.
   </li>
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
     <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
     <li><a href="https://4lch4.social">Any of my other public avenues.</a></li>
-    <!-- <li>
-      <em><a href="https://4lch4.social">My social site</a></em> with links to
-      nearly all methods of contact.
-    </li> -->
   </ul>
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
 </ul>
 
----
+<h3>No More GitHub For Me</h3>
+<p>
+  Recently, I decided to stop using GitHub as my primary location for storing my git repos. Instead, I've created <a href="https://git.4lch4.io">my own instance of Gitea</a> and will use it for all of my code.
 
-![Metrics](https://metrics.lecoq.io/4lch4?template=classic&languages=1&stars=1&achievements=1&notable=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FChicago)
+  Gitea supports mirroring repos to GitHub so if you use any of my repos and would like it to be mirrored to GitHub, just lemme know :)
+</p>
