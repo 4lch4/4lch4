@@ -4,6 +4,13 @@
   keyboard and/or a mouse.
 </h3>
 
+<h4>No More GitHub For Me</h4>
+<p>
+  Recently, I decided to stop using GitHub as my primary location for storing my git repos. Instead, I've created <a href="https://git.4lch4.io">my own instance of Gitea</a> and will use it for all of my code.
+
+  Gitea supports mirroring repos to GitHub so if you use any of my repos and would like it to be mirrored to GitHub, just lemme know :)
+</p>
+
 <!-- Badges -->
 <div align="left">
 
@@ -55,10 +62,3 @@
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
 </ul>
-
-<h3>No More GitHub For Me</h3>
-<p>
-  Recently, I decided to stop using GitHub as my primary location for storing my git repos. Instead, I've created <a href="https://git.4lch4.io">my own instance of Gitea</a> and will use it for all of my code.
-
-  Gitea supports mirroring repos to GitHub so if you use any of my repos and would like it to be mirrored to GitHub, just lemme know :)
-</p>
