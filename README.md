@@ -7,7 +7,6 @@
 <h4>No More GitHub For Me</h4>
 <p>
   I've recently begun using <a href="https://git.4lch4.io">my own instance of Gitea</a> in lieu of GitHub. If you'd like to find my latest code you'll find it there.
-  <!-- Recently, I decided to stop using GitHub as my primary location for storing my git repos. Instead, I've created <a href="https://git.4lch4.io">my own instance of Gitea</a> and will use it for all of my code. -->
 
   Gitea supports mirroring repos to GitHub so if you use any of my repos and would like it to be mirrored to GitHub, just lemme know :)
 </p>
