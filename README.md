@@ -4,7 +4,7 @@
   keyboard and/or a mouse.
 </h3>
 
-<h4>No More GitHub For Me</h4>
+<h4>Gitea Preferred</h4>
 <p>
   I've recently begun using <a href="https://git.4lch4.io">my own instance of Gitea</a> in lieu of GitHub. If you'd like to find my latest code you'll find it there.
 
