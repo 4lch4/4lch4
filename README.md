@@ -57,7 +57,7 @@
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
     <li><em><a href="mailto:hey@4lch4.email">hey@4lch4.email</a></em></li>
-    <li><a href="https://4lch4.social">Any of my other public avenues.</a></li>
+    <li><a href="https://4lch4.link">Any of my other public avenues.</a></li>
   </ul>
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
