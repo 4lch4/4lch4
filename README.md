@@ -37,7 +37,7 @@
     <a href="https://liatrio.com">@Liatrio</a>.
   </li>
   <li>
-    🔭&nbsp;&nbsp;I’m currently working on <a href="https://git.4lch4.io/4lch4/K-BLight">K-BLight</a>, a solution for managing Kuando BusyLights.
+    🔭&nbsp;&nbsp;I’m currently working on <a href="https://git.4lch4.io/K-BLight">K-BLight</a>, a solution for managing Kuando BusyLights.
   </li>
   <li>
     🌱&nbsp;&nbsp;I’m currently learning more about <a href="https://go.dev">Go</a>.
