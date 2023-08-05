@@ -1,7 +1,6 @@
-<h1 align="center">Heyo, I'm 4lch4 (Al-Kuh)</h1>
+<h1 align="center">Heyo, I'm 4lch4 (Al-Cuh)</h1>
 <h3 align="center">
-  I'm just some guy who likes making and fixing things that usually involve a
-  keyboard and/or a mouse.
+  I'm just some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.
 </h3>
 
 <!-- Badges -->
@@ -21,7 +20,7 @@
     />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=4lch4" alt="4lch4" />
+  <img src="https://komarev.com/ghpvc/?username=4lch4&color=brightgreen&style=flat-square" alt="4lch4" />
 
   <!-- <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
     <img
@@ -34,18 +33,14 @@
 
 <ul style="margin-top: 25px;">
   <li>
-    🔭&nbsp;&nbsp;I’m currently working on:
-    <ul>
-      <li><a href="https://git.4lch4.io/4lch4/Ansel">Ansel</a>, an asset retrieval API.</li>
-      <li><a href="https://git.4lch4.io/Sindri">Sindri</a>, an API for bootstrapping new projects.</li>
-    </ul>
+    👨🏻‍💻&nbsp;&nbsp;I'm a DevOps Engineer/Consultant
+    <a href="https://liatrio.com">@Liatrio</a>.
   </li>
   <li>
-    🌱&nbsp;&nbsp;I’m currently learning more about front-end development and Rust.
+    🔭&nbsp;&nbsp;I’m currently working on <a href="https://git.4lch4.io/4lch4/K-BLight">K-BLight</a>, a solution for managing Kuando BusyLights.
   </li>
   <li>
-    👨‍💻&nbsp;&nbsp;All of my public projects are viewable on my
-    <a href="https://git.4lch4.io/4lch4">Gitea profile</a>.
+    🌱&nbsp;&nbsp;I’m currently learning more about <a href="https://go.dev">Go</a>.
   </li>
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
