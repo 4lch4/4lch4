@@ -1,9 +1,7 @@
 <h1 align="center">Heyo, I'm 4lch4 (Al-Cuh)</h1>
 
-> I'm just some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.
-
 <!-- Badges -->
-<div align="left">
+<!-- <div align="left">
 
   <a href="https://twitter.com/4lch4">
     <img
@@ -21,14 +19,16 @@
 
   <img src="https://komarev.com/ghpvc/?username=4lch4&color=brightgreen&style=flat-square" alt="4lch4" />
 
-  <!-- <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
+  <a href="https://api.daily.dev/get?r=4lch4" target="_blank">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/4lch4/4lch4/devcard/devcard.svg"
     />
-  </a> -->
-</div>
+  </a>
+</div> -->
+
+> I'm just some guy who likes making and fixing things that usually involve a keyboard and/or a mouse.
 
 <ul style="margin-top: 25px;">
   <li>
