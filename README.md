@@ -57,7 +57,7 @@
   displayed in a specific order.
 -->
 <!-- Base GitHub Stats -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://stats.gh.4lch4.io/api?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -80,7 +80,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show_icons=true&layout=pie" />
-</picture>
+</picture> -->
 
 
 <!--
@@ -89,7 +89,7 @@
   an image URL. This tag will define whether the image specified in the markdown is only shown to
   viewers using a light or a dark GitHub theme.
 -->
-<!-- [![4lch4's GitHub Stats (Dark)][BasicStatsDark]][GitHubReadmeStats]
+[![4lch4's GitHub Stats (Dark)][BasicStatsDark]][GitHubReadmeStats]
 [![4lch4's GitHub Stats (Light)][BasicStatsLight]][GitHubReadmeStats]
 
 [![4lch4's Most Used Languages (Dark)][MostUsedLanguagesDark]][GitHubReadmeStats]
@@ -99,7 +99,7 @@
 [BasicStatsDark]: https://stats.gh.4lch4.io/api?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only
 [BasicStatsLight]: https://stats.gh.4lch4.io/api?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only
 [MostUsedLanguagesDark]: https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&layout=pie#gh-dark-mode-only
-[MostUsedLanguagesLight]: https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&layout=pie#gh-light-mode-only -->
+[MostUsedLanguagesLight]: https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&layout=pie#gh-light-mode-only
 
 <!--
   The following uses GitHub's new media feature in HTML to specify whether to display images for
