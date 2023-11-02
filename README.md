@@ -49,3 +49,29 @@
   </li>
   <li>⚡&nbsp;&nbsp;Fun fact <em>Spaces > Tabs</em>.</li>
 </ul>
+
+<!--
+  The following uses GitHub's theme context tags to switch the theme based on the user GitHub theme
+  automatically. This is done by appending #gh-dark-mode-only or #gh-light-mode-only to the end of
+  an image URL. This tag will define whether the image specified in the markdown is only shown to
+  viewers using a light or a dark GitHub theme.
+-->
+[![4lch4's GitHub Stats (Dark)](https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/4lch4/github-readme-stats#gh-dark-mode-only)
+[![4lch4's GitHub Stats (Light)](https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/4lch4/github-readme-stats#gh-light-mode-only)
+
+<!--
+  The following uses GitHub's new media feature in HTML to specify whether to display images for
+  light or dark themes. This is done using the HTML `<picture>` element in combination with the
+  `prefers-color-scheme` media feature.
+-->
+<picture>
+  <source
+    srcset="https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true" />
+</picture>
