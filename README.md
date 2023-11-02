@@ -56,7 +56,7 @@
   displayed in a specific order.
 -->
 <!-- Base GitHub Stats -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=4lch4&show_icons=true&theme=dark&show=reviews,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
@@ -66,10 +66,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=4lch4&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
-</picture>
+</picture> -->
 
 <!-- Most Used Languages -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&theme=dark&layout=pie"
     media="(prefers-color-scheme: dark)"
@@ -80,4 +80,4 @@
   />
   <img src="https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show_icons=true&layout=pie" />
 </picture>
-
+ -->
