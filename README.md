@@ -19,7 +19,7 @@
 
   <a href="https://linkedin.com/in/devin-leaman-4962242">
     <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=⠀"
+      src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=⭐️"
       alt="LinkedIn"
     />
   </a>
