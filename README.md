@@ -67,10 +67,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://stats.gh.4lch4.io/api?username=4lch4&show_icons=true" />
-</picture>
+</picture> -->
 
 <!-- Most Used Languages -->
-<picture>
+<!-- <picture>
   <source
     srcset="https://stats.gh.4lch4.io/api/top-langs/?username=4lch4&show_icons=true&theme=dark&layout=pie"
     media="(prefers-color-scheme: dark)"
