@@ -31,10 +31,6 @@
 
 <ul style="margin-top: 25px;">
   <li>
-    👨🏻‍💻&nbsp;&nbsp;I'm a DevOps Engineer/Consultant
-    <a href="https://liatrio.com">@Liatrio</a>.
-  </li>
-  <li>
     🔭&nbsp;&nbsp;I’m currently working on <a href="https://git.4lch4.io/K-BLight">K-BLight</a>, a solution for managing Kuando BusyLights.
   </li>
   <li>
