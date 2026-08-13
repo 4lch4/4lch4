@@ -17,7 +17,7 @@
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/follow-@4lch4-blue?style=for-the-badge&logo=twitter">
   </a>
 
-  <a href="https://linkedin.com/in/devin-leaman-4962242">
+  <a href="https://linkedin.com/in/4lch4">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=⭐️"
       alt="LinkedIn"
