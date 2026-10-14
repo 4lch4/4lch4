@@ -31,7 +31,7 @@
 
 <ul style="margin-top: 25px;">
   <li>
-    🌱&nbsp;&nbsp;I’m currently learning more about <a href="https://go.dev">Go</a>.
+    🌱&nbsp;&nbsp;I’m currently learning more about using AI with <a href="https://opencode.ai">OpenCode</a> and <a href="https://t3.codes">T3 Code</a>.
   </li>
   <li>📫&nbsp;&nbsp;How to reach me:
   <ul>
