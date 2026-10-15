@@ -13,10 +13,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/homepage-4lch4.com-green/?style=for-the-badge">
   </a>
 
-  <a href="https://twitter.com/4lch4">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/follow-@4lch4-blue?style=for-the-badge&logo=twitter">
-  </a>
-
   <a href="https://linkedin.com/in/4lch4">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&color=0072b1&label=LinkedIn&message=⭐️"
