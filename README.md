@@ -27,6 +27,8 @@
 
 <ul style="margin-top: 25px;">
   <li>
+    🛠️&nbsp;&nbsp;I'm currently building <a href="https://github.com/4lch4/Shion">Shion</a>, my notification hub, as my main project.
+  <li>
     🌱&nbsp;&nbsp;I’m currently learning more about using AI with <a href="https://opencode.ai">OpenCode</a> and <a href="https://t3.codes">T3 Code</a>.
   </li>
   <li>📫&nbsp;&nbsp;How to reach me:
